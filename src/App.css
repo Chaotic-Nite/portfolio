@@ -1,1 +1,18 @@
-@import '@trendmicro/react-sidenav/dist/react-sidenav.css';
+body {
+  background-image: url('./images/palered-variant.png');
+  background-size: cover;
+}
+
+header {
+  background-image: url('./images/scratched-gray.png');
+  background-size: cover;
+  background-position: right;
+  padding: 15px 0;
+}
+
+#logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
