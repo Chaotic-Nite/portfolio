@@ -1,0 +1,1 @@
+Site will consist as portofolio and for functional choreo use as well. Will Expand upon further later.
